@@ -1,5 +1,0 @@
-User-agent: *
-
-Disallow: /norobots/
-
-Sitemap: https://laur3nx0.github.io/laur3nx0.github.io/sitemap.xml
