@@ -3,6 +3,10 @@
 
 platforms:
   -
-    type: Youtube
-    icon: "fab fa-youtube"
-    link: "https://www.youtube.com/channel/UCS6loxXbMlAL8VwSVM4UIKQ"
+    type: Twitter
+    icon: "fa-brands fa-square-x-twitter"
+    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+
+  - type: Facebook
+    icon: "fab fa-facebook-square"
+    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"

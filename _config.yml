@@ -13,30 +13,29 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Seoul
+timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: 한줄코딩
+title: Women Soccer Network
 
-tagline: 신나는 코딩 한 줄!
+tagline: Women's Soccer news, worldwide
 
-description: >- # used by seo meta and the atom feed
-  IT 인들을 위한 커뮤니티 #magic___^_^___line
+description: The premier site for Women's Soccer news from across the world. # used by seo
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://blog.hanjulcoding.com'
+url: 'https://laur3nx0.github.io'
 
-author: "hanjulcoding" # change to your full name
+author: "Lauren" # change to your full name
 
 github:
-  username: hanjulcoding # change to your github username
+  username: Laur3nx0 # change to your github username
 
 social:
-  name: hanjulcoding # it will shows as the copyright owner in Footer
-  email: hanjulcoding.official@gmail.com # change to your email address
+  name: Lauren # it will shows as the copyright owner in Footer
+  email: laurenhemstock98@gmail.com # change to your email address
   links:
   # The first element serves as the copyright owner's link
-  - https://github.com/hanjulcoding # change to your github homepage
+  - https://github.com/Laur3nx0 # change to your github homepage
   # Uncomment below to add more social links
   # - https://www.facebook.com/username
   # - https://www.linkedin.com/in/username
@@ -60,7 +59,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -70,20 +69,20 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile.png
+avatar:
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: utterances # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: hanjulcoding/hanjul-blog # <gh-username>/<repo>
-    issue_term: title # < url | pathname | title | ...>
+    repo: # <gh-username>/<repo>
+    issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
