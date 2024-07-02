@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: "/laur3nx0.github.io"
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -23,7 +23,7 @@ tagline: Women's Soccer news, worldwide
 
 description: The premier site for Women's Soccer news from across the world. # used by seo
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://laur3nx0.github.io'
+url: 'https://Laur3nx0.github.io'
 
 author: "Lauren" # change to your full name
 
